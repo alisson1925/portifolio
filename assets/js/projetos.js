@@ -8,7 +8,7 @@ function projetos(section) {
         <div class="card">
           <h3>Dragon ball super - Página de web</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/roberto-consulta.gif" alt="Imagem do projeto." />
+            <img src="  " alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/alisson1925/projetoWeb-Dragon-Ball-Super" target="_blank" title="Repositório no Github">
                 <svg
@@ -46,7 +46,7 @@ function projetos(section) {
         <div class="card">
           <h3>Skambo</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/doctorcare.gif" alt="Imagem do projeto." />
+            <img src="   " alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/alisson1925/Skambo" target="_blank" title="Repositório no Github">
                 <svg
@@ -83,7 +83,7 @@ function projetos(section) {
         <div class="card">
           <h3>Django</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/portifolio.gif" alt="Imagem do projeto." />
+            <img src="   " alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/alisson1925/Projeto-em-Django" target="_blank" title="Repositório no Github">
                 <svg

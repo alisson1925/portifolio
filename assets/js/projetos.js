@@ -39,7 +39,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Projeto web feito na faculdade.</p>
+          <p>Mini projeto web feito em alguns minutos para aperfeiçoar minha habilidades.</p>
           <p>HTML - CSS</p>
         </div>
 
@@ -77,8 +77,8 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Projeto feito no Curso font-end Sennai.</p>
-          <p>HTML - CSS</p>
+          <p>Projeto feito na faculdade com sistema de autenticação de usuário com o banco de dados MySQL</p>
+          <p>HTML - CSS - JavaScript</p>
         </div>
         <div class="card">
           <h3>Django</h3>

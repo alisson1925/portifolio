@@ -8,7 +8,7 @@ function projetos(section) {
         <div class="card">
           <h3>Dragon ball super - Página de web</h3>
           <div class="img-wrapper">
-            <img src="  " alt="Imagem do projeto." />
+            <img src="./assets/images/projects/dragon-ball-super.gif" alt="Imagem do projeto."/>
             <div class="buttons">
               <a href="https://github.com/alisson1925/projetoWeb-Dragon-Ball-Super" target="_blank" title="Repositório no Github">
                 <svg
@@ -44,11 +44,11 @@ function projetos(section) {
         </div>
 
         <div class="card">
-          <h3>Skambo</h3>
+          <h3>IMC</h3>
           <div class="img-wrapper">
-            <img src="   " alt="Imagem do projeto." />
+            <img src="./assets/images/projects/projeto-imc.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/alisson1925/Skambo" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/alisson1925/projeto-IMC" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -62,7 +62,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://skambo-chi.vercel.app/" target="_blank" title="Ver Projeto">
+              <a href="https://projeto-imc-black.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"

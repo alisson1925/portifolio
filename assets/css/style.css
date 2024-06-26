@@ -87,6 +87,10 @@
     max-width: 100%;
     color: var(--paragraph);
   }
+
+  .content > p{
+    line-height: 1.7em;
+  }
   
   section {
     padding-block: 10rem;
